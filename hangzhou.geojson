@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-symbol": "bar",
+                "名称": "测试酒吧",
+                "简介": "测试简介blablabla",
+                "参考价格": "88元",
+                "推荐酒单": "old fashioned"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.11204481124877,
+                    30.286697789121206
+                ]
+            }
+        }
+    ]
+}
