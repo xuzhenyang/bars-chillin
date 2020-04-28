@@ -5,16 +5,31 @@
             "type": "Feature",
             "properties": {
                 "marker-symbol": "bar",
-                "名称": "测试酒吧123",
-                "简介": "测试简介blablabla",
-                "参考价格": "88元",
-                "推荐酒单": "old fashioned"
+                "名称": "901",
+                "评论（@lilpilot）": "小烤肉应该上必吃榜hhh",
+                "参考价格": ""
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    120.11204481124877,
-                    30.286697789121206
+                    120.009582,
+                    30.277842
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-symbol": "bar",
+                "名称": "余欢",
+                "评论（@lilpilot）": "在这里停留许久，发生过许多故事",
+                "参考价格": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.169828,
+                    30.256848
                 ]
             }
         }
