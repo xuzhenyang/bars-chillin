@@ -32,6 +32,83 @@
                     30.256848
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-symbol": "bar",
+                "名称": "墨水",
+                "评论（@lilpilot）": "9月就要关店，可别错过了哦",
+                "参考价格": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.158432,
+                    30.237051
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-symbol": "bar",
+                "名称": "药剂师",
+                "评论（@lilpilot）": "记得打电话预约",
+                "参考价格": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.162001,
+                    30.249138
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-symbol": "bar",
+                "名称": "LATE GALLERY",
+                "参考价格": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.199835,
+                    30.206391
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-symbol": "bar",
+                "名称": "LATE MARKET",
+                "参考价格": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.156174,
+                    30.262919
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-symbol": "bar",
+                "名称": "LATE COMPANY",
+                "参考价格": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.108275,
+                    30.266111
+                ]
+            }
         }
     ]
 }
