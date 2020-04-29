@@ -244,6 +244,36 @@
                     30.228474
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-symbol": "bar",
+                "名称": "Crossrods",
+                "参考价格": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.164464,
+                    30.264908
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-symbol": "bar",
+                "名称": "The Great Future",
+                "参考价格": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.168898,
+                    30.263756
+                ]
+            }
         }
     ]
 }
