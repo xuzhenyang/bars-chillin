@@ -214,6 +214,36 @@
                     30.241387
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-symbol": "bar",
+                "名称": "MAO",
+                "参考价格": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.168925,
+                    30.227382
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-symbol": "bar",
+                "名称": "LOOPY",
+                "参考价格": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.168498,
+                    30.228474
+                ]
+            }
         }
     ]
 }
