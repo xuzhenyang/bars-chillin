@@ -109,6 +109,111 @@
                     30.266111
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-symbol": "bar",
+                "名称": "Joy酒瘾",
+                "参考价格": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.157717,
+                    30.240837
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-symbol": "bar",
+                "名称": "Hope Bar",
+                "参考价格": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.162361,
+                    30.249352
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-symbol": "bar",
+                "名称": "MILL",
+                "参考价格": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.158508,
+                    30.237890
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-symbol": "bar",
+                "名称": "Half & Half",
+                "参考价格": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.130873,
+                    30.284957
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-symbol": "bar",
+                "名称": "奇妙人类博物馆",
+                "参考价格": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.111035,
+                    30.304648
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-symbol": "bar",
+                "名称": "Har Bour",
+                "参考价格": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.168413,
+                    30.264998
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-symbol": "bar",
+                "名称": "红Lounge",
+                "参考价格": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.158442,
+                    30.241387
+                ]
+            }
         }
     ]
 }
